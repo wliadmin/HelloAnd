@@ -1,1 +1,1 @@
-Sample Text
+*branchA*Sample Text
