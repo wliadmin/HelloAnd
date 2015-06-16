@@ -1,2 +1,0 @@
-*branchA*Sample Text
-*m*Sample Text
