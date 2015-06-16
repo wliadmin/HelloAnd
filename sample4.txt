@@ -1,3 +1,2 @@
-<<<<<<< HEAD
 Sample Text_branchy
 Sample Textmaster
