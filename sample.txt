@@ -1,2 +1,3 @@
 Sample Text
 this are the changes from branchA
+new text added : branch
