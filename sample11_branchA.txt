@@ -1,2 +1,1 @@
-*branch*Sample Text
 *branch**master*Sample Text
